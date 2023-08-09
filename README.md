@@ -2,7 +2,16 @@
 
 The News React Web App is a dynamic web application that allows users to explore news articles from different categories such as Entertainment, Business, General, Health, Sports, Science, and Technology. Stay informed about the latest happenings in the world through our user-friendly interface.
 
+## Screenshots
+#### Desktop view
 ![App Screenshot](screenshot.png)
+
+#### Mobile view
+#
+![App Screenshot](Screenshot1.png)
+#
+![App Screenshot](Screenshot2.png)
+ 
 
 ## Features
 
